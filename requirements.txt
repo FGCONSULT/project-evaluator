@@ -1,0 +1,10 @@
+streamlit>=1.30.0
+pandas
+openpyxl
+python-docx
+pypdf
+sentence-transformers
+faiss-cpu
+rank_bm25
+groq
+numpy
